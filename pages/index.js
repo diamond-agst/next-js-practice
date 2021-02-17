@@ -29,7 +29,7 @@ const SearchTextField = withStyles((theme) =>
           borderRadius: 12,
           background: "#E6ECF0",
           padding: 0,
-          paddingLeft: 15,
+          paddingLeft: 20,
           color: theme.palette.primary.main,
           '& .Mui-focused': {
               backgroundColor: "#fff",
